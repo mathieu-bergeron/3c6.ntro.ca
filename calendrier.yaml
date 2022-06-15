@@ -22,13 +22,13 @@ text:
     </td>
     <td>
 
-    * {{% link "../modules/01/01" "module 1.1: installation et introduction" %}}
-    * {{% link "../modules/01/02" "module 1.2: rappel concepts POO" %}}
-    * {{% link "../modules/01/03" "module 1.3: rappel tableau d'objets" %}}
+    * {{% link "/cours/3c6/modules/01/01" "module 1.1: installation et introduction" %}}
+    * {{% link "/cours/3c6/modules/01/02" "module 1.2: rappel concepts POO" %}}
+    * {{% link "/cours/3c6/modules/01/03" "module 1.3: rappel tableau d'objets" %}}
 
     #### IMPORTANT
 
-    * {{% link "../modules/02/verifier" "je vérifie mon dépôt Git" %}}
+    * {{% link "/cours/3c6/modules/02/verifier" "je vérifie mon dépôt Git" %}}
 
     </td>
     <td style="text-align:center" ><span style="text-align:center;background-color:orange;padding:5px;font-weight:bold;">séance&nbsp;3.2</span>
